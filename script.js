@@ -1,1 +1,1 @@
-alert("example")
+console.log("example")
